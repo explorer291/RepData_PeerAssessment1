@@ -1,6 +1,10 @@
 ---
-title: "Reproducible Research: Peer Assessment 1"
-output: html_document
+title: 'Reproducible Research: Peer Assessment 1'
+output:
+  pdf_document: default
+  html_document:
+    fig_caption: yes
+    theme: spacelab
 ---
 
 ##Dataset: 
